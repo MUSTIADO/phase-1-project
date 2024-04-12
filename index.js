@@ -1,6 +1,6 @@
 // Define API key and API URL
- apikey = "3e11999666d32ed264e2d00d65c5c828";
-const apiUrl = "http://api.openweathermap.org/data/2.5/weather"
+apikey = "3e11999666d32ed264e2d00d65c5c828";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather"
 
 // Select elements from the HTML
 const searchBox = document.querySelector(".search input");
